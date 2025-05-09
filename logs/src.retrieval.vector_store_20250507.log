@@ -1,0 +1,35 @@
+2025-05-07 12:08:33,360 - src.retrieval.vector_store - INFO - Initialized empty FAISS indexes
+2025-05-07 12:11:09,983 - src.retrieval.vector_store - INFO - Initialized empty FAISS indexes
+2025-05-07 12:11:23,479 - src.retrieval.vector_store - INFO - Added 16 text documents to vector store
+2025-05-07 12:11:23,480 - src.retrieval.vector_store - INFO - Added 6 images to vector store
+2025-05-07 12:11:23,494 - src.retrieval.vector_store - INFO - Saved vector store to data/vector_store
+2025-05-07 12:12:16,647 - src.retrieval.vector_store - INFO - Loaded vector store from data/vector_store
+2025-05-07 12:12:41,984 - src.retrieval.vector_store - INFO - Added 16 text documents to vector store
+2025-05-07 12:12:42,005 - src.retrieval.vector_store - INFO - Added 6 images to vector store
+2025-05-07 12:12:42,025 - src.retrieval.vector_store - INFO - Saved vector store to data/vector_store
+2025-05-07 12:15:45,322 - src.retrieval.vector_store - INFO - Loaded vector store from data/vector_store
+2025-05-07 12:15:48,189 - src.retrieval.vector_store - INFO - Loaded vector store from data/vector_store
+2025-05-07 15:22:16,960 - src.retrieval.vector_store - INFO - Loaded vector store from data/vector_store
+2025-05-07 15:23:51,258 - src.retrieval.vector_store - INFO - Loaded vector store from data/vector_store
+2025-05-07 15:37:50,247 - src.retrieval.vector_store - INFO - Loaded vector store from data/vector_store
+2025-05-07 15:42:17,767 - src.retrieval.vector_store - INFO - Loaded vector store from data/vector_store
+2025-05-07 15:43:00,481 - src.retrieval.vector_store - INFO - Added 66 text documents to vector store
+2025-05-07 15:43:00,482 - src.retrieval.vector_store - INFO - Added 10 images to vector store
+2025-05-07 15:43:00,535 - src.retrieval.vector_store - INFO - Saved vector store to data/vector_store
+2025-05-07 15:44:13,433 - src.retrieval.vector_store - INFO - Loaded vector store from data/vector_store
+2025-05-07 15:44:35,631 - src.retrieval.vector_store - INFO - Added 66 text documents to vector store
+2025-05-07 15:44:35,631 - src.retrieval.vector_store - INFO - Added 10 images to vector store
+2025-05-07 15:44:35,676 - src.retrieval.vector_store - INFO - Saved vector store to data/vector_store
+2025-05-07 16:02:21,318 - src.retrieval.vector_store - INFO - Loaded vector store from data/vector_store
+2025-05-07 16:03:17,977 - src.retrieval.vector_store - INFO - Loaded vector store from data/vector_store
+2025-05-07 17:29:58,142 - src.retrieval.vector_store - INFO - Loaded vector store from data/vector_store
+2025-05-07 18:38:51,776 - src.retrieval.vector_store - INFO - Loaded vector store from data/vector_store
+2025-05-07 18:40:02,659 - src.retrieval.vector_store - INFO - Loaded vector store from data/vector_store
+2025-05-07 18:41:19,916 - src.retrieval.vector_store - INFO - Loaded vector store from data/vector_store
+2025-05-07 18:41:44,827 - src.retrieval.vector_store - INFO - Added 66 text documents to vector store
+2025-05-07 18:41:44,827 - src.retrieval.vector_store - INFO - Added 10 images to vector store
+2025-05-07 18:41:44,849 - src.retrieval.vector_store - INFO - Saved vector store to data/vector_store
+2025-05-07 18:45:48,765 - src.retrieval.vector_store - INFO - Loaded vector store from data/vector_store
+2025-05-07 18:46:11,959 - src.retrieval.vector_store - INFO - Added 66 text documents to vector store
+2025-05-07 18:46:11,960 - src.retrieval.vector_store - INFO - Added 10 images to vector store
+2025-05-07 18:46:11,996 - src.retrieval.vector_store - INFO - Saved vector store to data/vector_store

@@ -1,0 +1,26 @@
+2025-05-07 10:41:32,941 - src.embeddings.text_embeddings - INFO - Loading text embedding model: all-MiniLM-L6-v2
+2025-05-07 10:44:51,448 - src.embeddings.text_embeddings - INFO - Loading text embedding model: all-MiniLM-L6-v2
+2025-05-07 12:06:54,299 - src.embeddings.text_embeddings - INFO - Loading text embedding model: all-MiniLM-L6-v2
+2025-05-07 12:10:55,493 - src.embeddings.text_embeddings - INFO - Loading text embedding model: all-MiniLM-L6-v2
+2025-05-07 12:11:22,547 - src.embeddings.text_embeddings - INFO - Embedded 16 text chunks
+2025-05-07 12:12:07,078 - src.embeddings.text_embeddings - INFO - Loading text embedding model: all-MiniLM-L6-v2
+2025-05-07 12:12:41,567 - src.embeddings.text_embeddings - INFO - Embedded 16 text chunks
+2025-05-07 12:15:35,681 - src.embeddings.text_embeddings - INFO - Loading text embedding model: all-MiniLM-L6-v2
+2025-05-07 12:15:38,272 - src.embeddings.text_embeddings - INFO - Loading text embedding model: all-MiniLM-L6-v2
+2025-05-07 15:22:06,151 - src.embeddings.text_embeddings - INFO - Loading text embedding model: all-MiniLM-L6-v2
+2025-05-07 15:23:37,072 - src.embeddings.text_embeddings - INFO - Loading text embedding model: all-MiniLM-L6-v2
+2025-05-07 15:37:38,534 - src.embeddings.text_embeddings - INFO - Loading text embedding model: all-MiniLM-L6-v2
+2025-05-07 15:42:05,149 - src.embeddings.text_embeddings - INFO - Loading text embedding model: all-MiniLM-L6-v2
+2025-05-07 15:42:58,029 - src.embeddings.text_embeddings - INFO - Embedded 66 text chunks
+2025-05-07 15:44:02,416 - src.embeddings.text_embeddings - INFO - Loading text embedding model: all-MiniLM-L6-v2
+2025-05-07 15:44:33,955 - src.embeddings.text_embeddings - INFO - Embedded 66 text chunks
+2025-05-07 16:02:10,308 - src.embeddings.text_embeddings - INFO - Loading text embedding model: all-MiniLM-L6-v2
+2025-05-07 16:03:08,386 - src.embeddings.text_embeddings - INFO - Loading text embedding model: all-MiniLM-L6-v2
+2025-05-07 17:29:49,792 - src.embeddings.text_embeddings - INFO - Loading text embedding model: all-MiniLM-L6-v2
+2025-05-07 17:33:20,272 - src.embeddings.text_embeddings - INFO - Loading text embedding model: all-MiniLM-L6-v2
+2025-05-07 18:38:42,517 - src.embeddings.text_embeddings - INFO - Loading text embedding model: all-MiniLM-L6-v2
+2025-05-07 18:39:53,463 - src.embeddings.text_embeddings - INFO - Loading text embedding model: all-MiniLM-L6-v2
+2025-05-07 18:41:11,238 - src.embeddings.text_embeddings - INFO - Loading text embedding model: all-MiniLM-L6-v2
+2025-05-07 18:41:43,775 - src.embeddings.text_embeddings - INFO - Embedded 66 text chunks
+2025-05-07 18:45:40,364 - src.embeddings.text_embeddings - INFO - Loading text embedding model: all-MiniLM-L6-v2
+2025-05-07 18:46:10,364 - src.embeddings.text_embeddings - INFO - Embedded 66 text chunks

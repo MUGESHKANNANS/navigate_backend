@@ -1,0 +1,70 @@
+2025-05-08 09:42:38,266 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 11:39:17,945 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 11:39:40,486 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 11:45:35,985 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 11:46:25,139 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:01:42,251 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:02:21,672 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:03:27,932 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:04:19,439 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:06:19,041 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:06:41,669 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:07:23,861 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:09:10,984 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:14:23,093 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:14:56,273 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:16:02,731 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:17:28,340 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:18:27,632 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:18:56,613 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:19:34,190 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:20:07,882 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:27:49,197 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:35:28,836 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:40:17,149 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:53:33,189 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:53:49,806 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:56:18,898 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:57:11,240 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:57:17,664 - src.embeddings.image_embeddings - INFO - Embedded 1 images
+2025-05-08 12:59:15,544 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 12:59:35,814 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 13:00:02,239 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 13:08:12,945 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 14:12:54,066 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 14:13:35,699 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 14:14:00,599 - src.embeddings.image_embeddings - INFO - Embedded 10 images
+2025-05-08 14:35:46,056 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 14:55:43,420 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 14:56:08,131 - src.embeddings.image_embeddings - INFO - Embedded 10 images
+2025-05-08 15:03:44,192 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 15:04:43,687 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 15:05:18,441 - src.embeddings.image_embeddings - INFO - Embedded 10 images
+2025-05-08 15:19:40,104 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 15:20:29,666 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 15:21:12,882 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 15:22:51,732 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 16:04:42,566 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 16:05:33,050 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 19:04:58,722 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 19:05:17,186 - src.embeddings.image_embeddings - INFO - Embedded 10 images
+2025-05-08 19:16:30,204 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 19:17:00,668 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 19:17:22,945 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 19:17:50,182 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 19:18:07,383 - src.embeddings.image_embeddings - INFO - Embedded 10 images
+2025-05-08 19:18:52,904 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 19:21:12,995 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 19:21:18,577 - src.embeddings.image_embeddings - INFO - Embedded 1 images
+2025-05-08 19:21:39,086 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 19:21:45,345 - src.embeddings.image_embeddings - INFO - Embedded 1 images
+2025-05-08 19:23:21,023 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 19:23:26,478 - src.embeddings.image_embeddings - INFO - Embedded 1 images
+2025-05-08 19:23:58,556 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 19:24:04,134 - src.embeddings.image_embeddings - INFO - Embedded 1 images
+2025-05-08 19:24:19,331 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 19:24:27,297 - src.embeddings.image_embeddings - INFO - Embedded 1 images
+2025-05-08 19:25:45,853 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 19:27:23,393 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 19:27:55,937 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
+2025-05-08 21:22:26,341 - src.embeddings.image_embeddings - INFO - Loading image embedding model: openai/clip-vit-base-patch32 on cpu
