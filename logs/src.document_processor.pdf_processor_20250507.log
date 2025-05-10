@@ -1,6 +1,0 @@
-2025-05-07 12:11:21,828 - src.document_processor.pdf_processor - INFO - Processed PDF: data/uploads\Agriculture-India-OECD-ICRIER.pdf - 16 text chunks, 6 images
-2025-05-07 12:12:41,337 - src.document_processor.pdf_processor - INFO - Processed PDF: data/uploads\Agriculture-India-OECD-ICRIER.pdf - 16 text chunks, 6 images
-2025-05-07 15:42:56,054 - src.document_processor.pdf_processor - INFO - Processed PDF: data/uploads\Research paper 1.pdf - 66 text chunks, 10 images
-2025-05-07 15:44:32,587 - src.document_processor.pdf_processor - INFO - Processed PDF: data/uploads\Research paper 1.pdf - 66 text chunks, 10 images
-2025-05-07 18:41:42,095 - src.document_processor.pdf_processor - INFO - Processed PDF: data/uploads\Research paper 1.pdf - 66 text chunks, 10 images
-2025-05-07 18:46:09,045 - src.document_processor.pdf_processor - INFO - Processed PDF: data/uploads\Research paper 1.pdf - 66 text chunks, 10 images
